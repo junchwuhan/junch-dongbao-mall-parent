@@ -9,12 +9,16 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>junch-dongbao-application</artifactId>
+    <artifactId>junch-dongbao-manager-web</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>junch-dongbao-manager-web</module>
+        <module>junch-dongbao-job</module>
         <module>junch-dongbao-portal-web</module>
     </modules>
 
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
 
 </project>

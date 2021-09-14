@@ -20,6 +20,7 @@
         <module>junch-dongbao-dictionary</module>
         <module>junch-dongbao-sms</module>
         <module>junch-dongbao-cms</module>
+        <module>junch-dongbao-application</module>
     </modules>
 
 
